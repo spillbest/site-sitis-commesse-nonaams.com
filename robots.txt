@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sitis-commesse-nonaams.com/sitemap.xml
